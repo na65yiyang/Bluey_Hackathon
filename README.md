@@ -1,11 +1,8 @@
+# Bluey Hackathon
 
-  # Floating Action Button Design
+Project for the Bluey Hackathon.
 
-  This is a code bundle for Floating Action Button Design. The original project is available at https://www.figma.com/design/qzd9fllZukwufLT7ekt3bf/Floating-Action-Button-Design.
+## Projects
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+- **[Bluey_Button](./Bluey_Button/)** - Figma Floating Action Button component
+  - Run `cd Bluey_Button && npm i && npm run dev` to start
